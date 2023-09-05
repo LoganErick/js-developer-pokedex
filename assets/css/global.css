@@ -1,24 +1,43 @@
 * {
-    font-family: 'Roboto', sans-serif;
+    font-family: 'Poppins', sans-serif;
     box-sizing: border-box;
 }
 
 body {
-    background-color: #f6f8fc;
+    background-color: #88878748;
+    background-size: cover; /* Para ajustar o tamanho da imagem ao tamanho da tela */
+    background-repeat: no-repeat; /* Para evitar que a imagem seja repetida */
+
 }
 
 .content {
     width: 100vw;
     height: 100vh;
     padding: 1rem;
-    background-color: #fff;
+    background-color: #fbb405;
 }
 
-@media screen and (min-width: 992px) {
-    .content {
-        max-width: 992px;
-        height: auto;
-        margin: 1rem auto;
-        border-radius: 1rem;
-    }
+h1 {
+    color: #F7F8FC;
+    text-align:center
+}
+
+#pokedex {
+    text-align: center; /* Centraliza o conteúdo horizontalmente */
+    background-color: #fbb505cb;; /* Define uma cor de fundo para a Pokédex */
+    padding: 20px; /* Adiciona espaço ao redor do conteúdo */
+}
+
+/* Estilo para as imagens da Pokédex */
+.pokedex-image {
+    width: 35px; /* Ajuste o tamanho das imagens conforme necessário */
+    height: auto;
+    vertical-align: middle; /* Alinha verticalmente ao centro */
+    margin: 0 10px; /* Espaçamento entre as imagens e o título */
+}
+
+
+#pokedex h1 {
+    display: inline-block; /* Permite que o título fique entre as imagens */
+    margin: 0; /* Remove a margem padrão do h1 */
 }
