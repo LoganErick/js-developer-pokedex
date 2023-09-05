@@ -8,7 +8,7 @@ Uma Pokédex simples que exibe informações sobre Pokémon usando a API PokeAPI
 
 Este projeto é uma Pokédex básica que permite aos usuários ver informações sobre vários Pokémon. Ele consome dados da [PokeAPI](https://pokeapi.co/) para exibir detalhes sobre Pokémon, como nome, número, tipo, habilidades, e mais.
 
-![Pokedex Screenshot](screenshot.png) ![Pokedex Screenshot](screenshot2.png)
+![Pokedex Screenshot](fotos/screenshot.png) ![Pokedex Screenshot](fotos/screenshot2.png)
 
 ## Como Usar
 
