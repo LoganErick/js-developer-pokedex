@@ -35,8 +35,8 @@ CSS3
 JavaScript
 Além disso, ele faz uso da API PokeAPI para buscar informações sobre Pokémon.
 
-Autores
-Seu Nome Logan Erick
+Autores Nome Logan Erick
+
 Licença
 Este projeto está sob a licença MIT. Consulte o arquivo LICENSE para obter detalhes.
 
